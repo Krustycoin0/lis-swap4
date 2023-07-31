@@ -122,7 +122,7 @@ const Stream = () => {
           <Navbar />
         </div>
         <div className="sfb__heather">
-         <h1 className="gradient__text">Stream Lisprocoin</h1>
+         <h1 className="gradient__text">Stream BOB 4.0</h1>
        </div>
        <div>
        <CardGroup>
